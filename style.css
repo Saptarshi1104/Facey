@@ -1,0 +1,11 @@
+h2{
+width: 80%;
+background-color: lightblue;
+}
+h1{
+width: 100%;
+}
+#camera{
+border-width: 5px;
+border-style: dotted;
+}
